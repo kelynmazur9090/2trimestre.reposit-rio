@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "A dedicação aos estudos é a chave principal do sucesso em todos os aspectos da vida. O estudo abre a mente, seja qual for o segmento. te faz crescer como pesoa, te enriquece como um todo, te resguarda. te incomoda pois para muito o estudo dói, te torna confiante. te fomenta a realizar sonho, te faz racional e constestador, te faz brilhar! O estudo é inerente a vida!",
+        enunciado: "A dedicação aos estudos é a chave principal do sucesso em todos os aspectos da vida. O estudo abre a mente, seja qual for o segmento. Te faz crescer como pessoa, te enriquece como um todo, te resguarda. Te incomoda pois para muitos o estudo dói, te torna confiante. Te fomenta a realizar sonho, te faz racional e constestador, te faz brilhar! O estudo é inerente a vida!",
         alternativas: [
             {
                 texto: "Siga firme e forte!",
